@@ -2,7 +2,7 @@
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=intellij-idea&logoColor=orange)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=intellij-idea&logoColor=F60)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=amp&logoColor=009485)
 ![Spring](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=Spring%20Boot&logoColor=6DB33F)
 ![Postgres](https://img.shields.io/badge/-Postgres-090909?style=for-the-badge&logo=postgresql&logoColor=23316192)
