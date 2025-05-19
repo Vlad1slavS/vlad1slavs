@@ -2,7 +2,7 @@
 
 <hr>
 
-### 👾 Junior Backend Developer
+<h3 align="center">👾 Junior Backend Developer</h3>
 
 <hr>
 
