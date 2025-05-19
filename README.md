@@ -1,5 +1,7 @@
 ![Header](https://github.com/Vlad1slavS/vlad1slavs/blob/main/assets/header.png)
 
+<hr>
+
 ### 👾 Junior Backend Developer
 
 <hr>
