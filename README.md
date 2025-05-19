@@ -1,7 +1,6 @@
-### About me: 
 ![Header](https://github.com/Vlad1slavS/vlad1slavs/blob/main/assets/header.png)
 
-### Junior Backend Developer
+### 👾 Junior Backend Developer
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
