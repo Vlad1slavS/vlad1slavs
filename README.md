@@ -2,6 +2,8 @@
 
 ### 👾 Junior Backend Developer
 
+<hr>
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=intellij-idea&logoColor=F60)
@@ -11,4 +13,4 @@
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=DD0031)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-
+<hr>
