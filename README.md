@@ -16,3 +16,12 @@
 </p>
 
 <hr>
+
+### Socials:
+<p align="left">
+  <a href="https://t.me/ChiLLi337">
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
+  </a>
+</p>
+
+<hr>
