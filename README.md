@@ -1,4 +1,4 @@
-![Header](https://github.com/Vlad1slavS/vlad1slavs/blob/main/assets/header4.png)
+![Header](https://github.com/Vlad1slavS/vlad1slavs/blob/main/assets/header8.png)
 
 <hr>
 <h3 align="center">👨‍💻 Junior Backend Developer</h3>
