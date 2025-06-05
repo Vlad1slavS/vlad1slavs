@@ -1,12 +1,13 @@
 ![Header](https://github.com/Vlad1slavS/vlad1slavs/blob/main/assets/header4.png)
 
 <hr>
-
 <h3 align="center">👨‍💻 Junior Backend Developer</h3>
-
+<hr>
+<div align="center"><strong> I'm software developer from Russia. I am constantly studying and learning new technologies. Eager to work on a real project and contribute to its development! 🔥 </strong></div>
 <hr>
 
-### Languages and Tools:
+### Languages and Tools stack:
+
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=intellij-idea&logoColor=F60" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=Spring%20Boot&logoColor=6DB33F" />
@@ -18,6 +19,7 @@
 <hr>
 
 ### Socials:
+
 <p align="left">
   <a href="https://t.me/ChiLLi337">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
