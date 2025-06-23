@@ -1,7 +1,7 @@
 ![Header](https://github.com/Vlad1slavS/vlad1slavs/blob/main/assets/header8.png)
 
 <hr>
-<h3 align="center">👨‍💻 Backend Developer</h3>
+<h3 align="center">👨‍💻 Java Backend Developer</h3>
 <hr>
 <div align="center"><strong> I'm software developer from Russia. I am constantly studying and learning new technologies. Eager to work on a real project and contribute to its development! 🔥 </strong></div>
 <hr>
