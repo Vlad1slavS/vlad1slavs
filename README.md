@@ -1,5 +1,5 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2200&color=F7F7F7&center=true&vCenter=true&multiline=true&width=459&height=90&lines=Hi!+Glad+to+see+you+here;(%D1%80%D0%B0%D0%B4+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C+%D1%82%D0%B5%D0%B1%D1%8F+%D1%82%D1%83%D1%82)" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=459&height=90&lines=Hi!+I'm+Vlad!+Glad+to+see+you+here;(%D1%80%D0%B0%D0%B4+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C+%D1%82%D0%B5%D0%B1%D1%8F+%D1%82%D1%83%D1%82)" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">👨‍💻 Junior Backend Developer</h3>
