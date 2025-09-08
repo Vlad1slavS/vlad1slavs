@@ -9,12 +9,22 @@
 
 ### Languages and Tools stack:
 
-<div>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
-	<img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/>
+<div style="display:flex; align-items:center; gap:16px; padding:12px; background:#090909; border-radius:20px; flex-wrap:nowrap;">
+  <div style="border:1px solid #ddd; border-radius:12px; padding:3px; box-shadow:0 2px 6px rgba(0,0,0,0.15); background:#fff;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java" style="width:60px; height:60px; object-fit:contain;"/>
+  </div>
+  <div style="border:1px solid #ddd; border-radius:12px; padding:3px; box-shadow:0 2px 6px rgba(0,0,0,0.15);background:#fff;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring" title="Spring" style="width:60px; height:60px; object-fit:contain;"/>
+  </div>
+  <div style="border:1px solid #ddd; border-radius:12px; padding:3px; box-shadow:0 2px 6px rgba(0,0,0,0.15);background:#fff;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" style="width:60px; height:60px; object-fit:contain;"/>
+  </div>
+  <div style="border:1px solid #ddd; border-radius:12px; padding:3px; box-shadow:0 2px 6px rgba(0,0,0,0.15);background:#fff;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker" style="width:60px; height:60px; object-fit:contain;"/>
+  </div>
+  <div style="border:1px solid #ddd; border-radius:12px; padding:3px; box-shadow:0 2px 6px rgba(0,0,0,0.15);background:#fff;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="Kafka" title="Kafka" style="width:60px; height:60px; object-fit:contain;"/>
+  </div>
 </div>
 
 <hr>
