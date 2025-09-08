@@ -9,13 +9,13 @@
 
 ### Languages and Tools stack:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=intellij-idea&logoColor=F60" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=Spring%20Boot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/-Postgres-090909?style=for-the-badge&logo=postgresql&logoColor=23316192" />
-  <img src="https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=DD0031" />
-  <img src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED" />
-</p>
+<div align="left">
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/></code>
+</div>
 
 <hr>
 
