@@ -9,8 +9,8 @@
 
 ### Languages and Tools stack:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,redis,docker,kafka,&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,kafka,redis,docker&theme=dark" />
 </p>
 
 <hr>
