@@ -5,9 +5,16 @@
 
 ### Languages and Tools stack:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,kafka,redis,docker&theme=dark" />
-</p>
+<ul>
+  <li>Java</li>
+  <li>Spring Framework (Spring Boot, Spring Data, Spring Security)</li>
+  <li>PostgreSQL, MongoDB</li>
+  <li>Apache Kafka</li>
+  <li>Redis</li>
+  <li>Docker, Kubernetes</li>
+</ul>
+
+<hr>
 
 <hr>
 
