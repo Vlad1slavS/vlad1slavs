@@ -1,4 +1,4 @@
-<h3 align="center">👨‍💻 Backend Developer</h3>
+<h3 align="center">👨‍💻 Java Backend Developer</h3>
 <hr>
 <div align="center"><strong>Software engineer</strong></div>
 <hr>
