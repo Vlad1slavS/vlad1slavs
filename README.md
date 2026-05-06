@@ -1,6 +1,6 @@
 <h3 align="center">👨‍💻 Backend Developer</h3>
 <hr>
-<div align="center"><strong> Software developer. I am constantly studying and learning new technologies. Eager to work on a real project and contribute to its development! 🔥 </strong></div>
+<div align="center"><strong>Software engineer</strong></div>
 <hr>
 
 ### Languages and Tools stack:
