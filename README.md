@@ -14,7 +14,7 @@
 ### Socials:
 
 <p align="left">
-  <a href="https://t.me/ChiLLi337">
+  <a href="https://t.me/vladis1av7">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
   </a>
 </p>
