@@ -7,10 +7,11 @@
 
 <ul>
   <li>Java</li>
-  <li>Spring Framework (Spring Boot, Spring Data, Spring Security)</li>
+  <li>Spring Framework (Spring Boot, Spring Data, Spring Security, Spring Cloud)</li>
   <li>PostgreSQL, MongoDB</li>
   <li>Apache Kafka</li>
   <li>Redis</li>
+  <li>MinIO</li>
   <li>Docker, Kubernetes</li>
 </ul>
 
